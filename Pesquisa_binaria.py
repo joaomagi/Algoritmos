@@ -1,10 +1,3 @@
-'''
-A pesquisa binária é um algorito eficiente para encontrar um valor em uma lista que precisa estar em forma ordenada,
-a pesquisa binária tem notação Big O, O(log n) também conhecido como tempo logarítmico, o que a torna mais eficiente que a pesquisa simples, 
-a pesquisa simples, O(n), conhecido como tempo linear, funciona de forma linear indo de item por item de forma linear o que acaba tornando o processo mais lento
-'''
-
-
 def pesquisa_binaria(lista, item):
     # baixo e alto serve para acompanhar a parte da lista que você está procurando
     baixo = 0
@@ -19,7 +12,7 @@ def pesquisa_binaria(lista, item):
             alto = meio - 1
         else:
             baixo = meio + 1  # Chuto muito baixo
-    return None  # Item não existe
+    return None  # Retorna que o item não existe
 
 
 minha_lista = [1, 3, 5, 7, 9]
