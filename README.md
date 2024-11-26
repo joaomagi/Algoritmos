@@ -118,8 +118,8 @@ Esse processo de abrir caixas dentro de caixas é como a recursão na programaç
 Código disponível [aqui](https://github.com/joaomagi/Algoritmos/blob/main/Recursao.py)
 
 # Hash
-Evitar entradas duplicadas
+Evitar entradas duplicadas...
 ### Funções Hash
-
+...
 ### Utilização como cache
-
+...
