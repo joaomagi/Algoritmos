@@ -47,6 +47,7 @@ A notação Big O é uma maneira de descrever o desempenho de um algoritmo em re
 - O(n log n):
 - O(n²):
 - O(n!):
+
 ![Big O](https://github.com/joaomagi/Algoritmos/blob/main/Imagens/BigO.png)
 ---
 
