@@ -46,7 +46,8 @@ A notação Big O é uma maneira de descrever o desempenho de um algoritmo em re
 - O(log n): Tempo de execução logarítmico. O tempo de execução aumenta de forma muito lenta à medida que o tamanho da entrada aumenta.
 - O(n log n):
 - O(n²):
-- O(n!):Tem de execução fatorial. Esse é o pior tempo de execução possível para um algoritmo, o tempo de execução é fatorial o que quer dizer que ele aumenta fatorialmente em relação aos dados de entrada, conhecido como "O problema do caixeiro-viajante".
+- O(n!): Tem de execução fatorial. Esse é o pior tempo de execução possível para um algoritmo, o tempo de execução é fatorial o que quer dizer que ele aumenta fatorialmente em relação aos dados de entrada, conhecido como "O problema do caixeiro-viajante".
+### O problema do caixeiro-viajante
 
 <p align="center">
   <img src="https://github.com/joaomagi/Algoritmos/blob/main/Imagens/BigO.png" alt="Big O">
