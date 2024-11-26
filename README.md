@@ -51,10 +51,13 @@ A notação Big O é uma maneira de descrever o desempenho de um algoritmo em re
 <p align="center">
   <img src="https://github.com/joaomagi/Algoritmos/blob/main/Imagens/BigOFatorial.png" alt="Big O">
 </p>
+
 ---
+
 <p align="center">
   <img src="https://github.com/joaomagi/Algoritmos/blob/main/Imagens/BigO.png" alt="Big O">
 </p>
+
 ---
 
 # Array
