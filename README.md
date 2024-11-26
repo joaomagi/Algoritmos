@@ -109,7 +109,7 @@ n é o tamanho da lista a ser ordenada. Isso significa que o tempo de execução
 Recursão é um conceito importante na programação, onde uma função chama a si mesma para resolver partes menores do problema. É como se você seguisse uma pista para encontrar outra pista, e assim por diante, até atingir o seu objetivo final.
 
 ### Exemplo 1:
-Você começa a procurar e encontra uma caixa. Ao abri-la, você não encontra a chave, mas outra caixa menor dentro dela. Curioso, você abre essa segunda caixa e encontra outra caixa ainda menor.
+Você começa a procurar uma chave e encontra uma caixa. Ao abri-la, você não encontra a chave, mas outra caixa menor dentro dela. Curioso, você abre essa segunda caixa e encontra outra caixa ainda menor.
 
 Essa sequência de abrir caixas continua, e você se vê abrindo uma após a outra, cada vez encontrando uma caixa menor, até que finalmente, depois de abrir várias delas, você encontra a chave que estava procurando.
 
