@@ -44,6 +44,9 @@ A notação Big O é uma maneira de descrever o desempenho de um algoritmo em re
 - O(1): Tempo de execução constante. Independentemente do tamanho da entrada, o tempo de execução permanece constante.
 - O(n): Tempo de execução linear. O tempo de execução aumenta proporcionalmente ao tamanho da entrada.
 - O(log n): Tempo de execução logarítmico. O tempo de execução aumenta de forma muito lenta à medida que o tamanho da entrada aumenta.
+- O(n log n):
+- O(n²):
+- O(n!):
 
 ---
 
