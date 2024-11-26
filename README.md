@@ -114,3 +114,9 @@ Esse processo de abrir caixas dentro de caixas é como a recursão na programaç
 ### Exemplo em código:
 Código disponível [aqui](https://github.com/joaomagi/Algoritmos/blob/main/Recursao.py)
 
+# Hash
+Evitar entradas duplicadas
+### Funções Hash
+
+### Utilização como cache
+
